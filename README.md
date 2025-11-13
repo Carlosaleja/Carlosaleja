@@ -11,7 +11,7 @@
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi 😯</b>
 Soy un desarrollador en formación apasionado por la programación, la tecnología y el aprendizaje constante. Me gusta crear proyectos que resuelvan problemas reales y que me ayuden a mejorar mis habilidades tanto en el desarrollo backend como en el diseño de software. Actualmente estoy enfocado en aprender y trabajar con Java, Spring Boot y PostgreSQL, además de seguir explorando nuevas herramientas y buenas prácticas en el desarrollo de aplicaciones.
 
 <br>
@@ -55,7 +55,7 @@ Soy un desarrollador en formación apasionado por la programación, la tecnolog�
  <a href="calejandro">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="carlosalejandrodr@outlook.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
