@@ -64,7 +64,7 @@ Soy un desarrollador en formación apasionado por la programación, la tecnolog�
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
