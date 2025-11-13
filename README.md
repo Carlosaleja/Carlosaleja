@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Al-Amin <img src=
+<h1 align="center">Hola, Soy Carlos 😁 <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
@@ -12,26 +12,25 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+Soy un desarrollador en formación apasionado por la programación, la tecnología y el aprendizaje constante. Me gusta crear proyectos que resuelvan problemas reales y que me ayuden a mejorar mis habilidades tanto en el desarrollo backend como en el diseño de software. Actualmente estoy enfocado en aprender y trabajar con Java, Spring Boot y PostgreSQL, además de seguir explorando nuevas herramientas y buenas prácticas en el desarrollo de aplicaciones.
 
 <br>
 
   
 
 
- -  🔭 I’m currently working on something cool 😉
+🔭 Actualmente estoy trabajando en algunos proyectos interesantes con Java y Spring Boot.
 
-- 👯 I’m looking forward to collaborate on python projects.
+👯 Me gustaría colaborar en proyectos backend o relacionados con el desarrollo de APIs y bases de datos.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Aprendiendo más sobre arquitectura de software, buenas prácticas y desarrollo con Spring.
 
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+💬 Puedes preguntarme sobre lo que hago, ¡si está en mi cancha, con gusto te ayudo! 😉
 
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Donde contactarme </b>
 
  
  
@@ -44,24 +43,16 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="www.linkedin.com/in/carlos-dominguez-renderos-1161a1390">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
- <a href="https://www.instagram.com/">
+ <a href="https://www.instagram.com/calejandro_dr/">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <a href="calejandro">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
  <a href="mailto:alamin.contact24@gmail.com">
